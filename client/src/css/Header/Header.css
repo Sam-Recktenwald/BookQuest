@@ -1,0 +1,5 @@
+.header-bg{
+    min-height: 75vh;
+    background: linear-gradient(rgba(85, 119, 85, 0.3), rgba(150, 210, 212, 0.5)), url("../../images/bookshelf.jpeg") center/cover no-repeat;
+    flex-direction: column;
+}
